@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="60px" height="60px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 60 60"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="user-avatar">
+   <rect fill="#f5f5dc" width="60.001" height="60.001"/>
+   <path fill="white" d="M6.543 53.623c5.081,1.086 46.64,3.233 47.271,-2.592 0.46,-4.247 -3.76,-8.526 -5.694,-10.011 -15.175,-11.653 -47.123,-2.863 -41.577,12.603zm23.262 -41.397c5.054,0 9.15,3.962 9.15,8.85 0,4.887 -4.096,8.85 -9.15,8.85 -5.054,0 -9.15,-3.963 -9.15,-8.85 0,-4.888 4.096,-8.85 9.15,-8.85z"/>
+  </g>
+</svg>
